@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/atoship-LLC/atoship-ruby"
-  spec.metadata["documentation_uri"] = "https://atoship.com/developers"
+  spec.metadata["documentation_uri"] = "https://atoship.com/docs"
 
   spec.files = Dir.glob("{lib,exe}/**/*") + %w[README.md LICENSE Gemfile]
   spec.bindir        = "exe"
